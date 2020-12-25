@@ -1,6 +1,8 @@
 #Notebooks - Deep Learning With Python 
 # François Chollet
 
+Os notebooks do capitulo 8 podem ser encontrados no outro branch, ou aqui : https://github.com/pretatech/notebooks_Deep_Learning_With_python/tree/fd68db603496644def8987cf17ad1761d6ecabb8/Documents/PretaTech/notebooks_Deep_Learning_With_python/Capitulo_08
+
 Lá no meu perfil do Medium comentei e expliquei capitulo por capítulo do livro do François e você pode clicar [aqui](https://apretatech.medium.com/)  para ter acesso a todos os artigos publicados. 
 
 Ou caso preferir, podemos ir direto ao capitulo de interesse: 
