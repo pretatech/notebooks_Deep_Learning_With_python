@@ -23,7 +23,9 @@ Ou caso preferir, podemos ir direto ao capitulo de interesse:
  
  [Capitulo 8](https://apretatech.medium.com/s%C3%A9rie-deep-learning-with-python-parte-8-53b250947a84)  
  
-
+ [Capitulo 9](https://apretatech.medium.com/s%C3%A9rie-deep-learning-with-python-parte-9-final-bf2f3d545ec2)  
+ 
+ 
 
 Os notebooks encontrados aqui são relacionados a todos os capitulos do livro do François, sendo que tive como base/foram retirados dos seguintes repositórios: 
 
